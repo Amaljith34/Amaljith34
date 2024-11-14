@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working as a MERN Stack Developer in Bridgeon Solutions LLP
 
-- 💬 Ask me about **JavaScript, React,Next Js, Node js, Express js, MongoDB,SQL,C#,C++,C,JAVA**
+- 💬 Ask me about **JavaScript, React,Redux, Node js, Express js, MongoDB,PSQL**
 
 - 📫 reach me on **jith51541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/amal_j_ith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal_j_ith" height="30" width="40" /></a>
-  <a href="[https://linkedin.com/in/mohammed-salih-7571062b1](https://www.linkedin.com/in/amaljith-k-1a6572306/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-h-d-salih" height="30" width="40" /></a>
+<a href="https://instagram.com/_amal_j_ith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal_j_ith" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/amaljith-k-1a6572306](https://www.linkedin.com/in/amaljith-k-1a6572306/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amaljith34" height="30" width="40" /></a>
 </p>
 
 <div align="center">
