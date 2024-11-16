@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amaljith34&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+ <br /><br />
 ![LeetCode Stats](https://leetcode.card.workers.dev/Amaljithaj?theme=dark&font=source_code_pro&extension=null)
 </div>
 <div align="center">
