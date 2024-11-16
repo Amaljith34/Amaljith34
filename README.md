@@ -12,7 +12,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amaljith34&label=Profile%20views&color=0e75b6&style=flat" alt="Amaljith34" /> </p>
-
+<img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 - 🔭 I’m currently working as a MERN Stack Developer in Bridgeon Solutions LLP
 
 - 💬 Ask me about **JavaScript, React,Redux, Node js, Express js, MongoDB,PSQL**
