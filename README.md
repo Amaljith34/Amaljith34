@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, React,Redux, Node js, Express js, MongoDB,PSQL**
 
-- 📫 reach me on **jith51541@gmail.com**
+- 📫 reach me on **amaljithkaj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
